@@ -1,0 +1,22 @@
+:root{
+    
+}
+
+body{
+    font-family: Arial;
+    background-color: #f4f4f4;
+}
+
+button{
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+}
+.success{
+    background-color: green;
+    color: white;
+}
+.danger{
+    background-color: red;
+    color: white;
+}
